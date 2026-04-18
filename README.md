@@ -1,4 +1,4 @@
-# 🌌 Gemini-BB-Telegram-Bot
+# 🌌 Gemini-BB-Telegram-Bot (Gemini 布林通道 Telegram 機器人)
 
 ---
 
