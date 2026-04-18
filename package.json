@@ -1,0 +1,28 @@
+{
+  "name": "bb-breakout-telegram-bot",
+  "version": "1.0.0",
+  "description": "Bollinger Bands Breakout Telegram Trading Bot",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "dev": "nodemon src/app.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "binance": "^3.5.4",
+    "dotenv": "^17.4.2",
+    "technicalindicators": "^3.1.0",
+    "telegraf": "^4.16.3",
+    "winston": "^3.19.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}
