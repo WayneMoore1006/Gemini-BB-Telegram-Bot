@@ -1,5 +1,5 @@
 {
-  "name": "bb-breakout-telegram-bot",
+  "name": "gemini-bb-telegram-bot",
   "version": "1.0.0",
   "description": "Bollinger Bands Breakout Telegram Trading Bot",
   "main": "dist/app.js",

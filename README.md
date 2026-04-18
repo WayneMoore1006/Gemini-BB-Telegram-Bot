@@ -4,10 +4,21 @@
 
 ## 🇹🇼 繁體中文版本 (Traditional Chinese Version)
 
-<img src="./bb%20bot%20source/bb1.gif" width="400" alt="行情監控展示" />
-
 ### 📖 專案簡介
 **Gemini-BB-Telegram-Bot** 是由 `bb-breakout-trading-bot-strategy` 深度進化而來的專業級 Telegram 交易監控機器人。本專案透過 **TypeScript** 重構了多週期引擎，並深度整合了 **Google Gemini AI**，將傳統的靜態監控腳本提升為具備對話能力與智能分析的交易助手。
+
+### 🎥 功能演示 (Feature Gallery)
+
+#### 1. 多週期實時行情監控
+<img src="./assets/bb1.gif" width="400" alt="行情監控展示" />
+
+#### 2. Gemini AI 智能對話助手
+<img src="./assets/bb2.gif" width="400" alt="AI 助手對話展示" />
+
+#### 3. Telegram 指令交互操作
+<img src="./assets/bb3.gif" width="400" alt="指令操作演示" />
+
+---
 
 ### 🌟 核心功能
 1.  **實時多週期監控**：同步監控 15m, 1h, 4h, 1d 等多個時間週期，每個週期獨立計算布林通道軌道。
@@ -18,7 +29,6 @@
 ---
 
 ### 🤖 AI 智能助手 (Powered by Gemini)
-<img src="./bb%20bot%20source/bb2.gif" width="400" alt="AI 助手對話展示" />
 您可以輸入 `/ai` 後接任何問題，例如：
 - 「根據 15m 和 1h 的指標，目前的波動率如何？」
 - 「請分析目前的突破真實性，適合進場嗎？」
@@ -26,7 +36,6 @@
 ---
 
 ### 🛠 指令手冊
-<img src="./bb%20bot%20source/bb3.gif" width="400" alt="指令操作演示" />
 - `/price` : 💰 即時價格查詢
 - `/status` : 📉 各週期 BB 軌道狀態監控
 - `/signal` : 📍 查看各週期最後一次觸發訊號
@@ -44,18 +53,26 @@
 - 已採現 MIT 授權協議發布。
 
 ---
-
-# 🌌 Gemini-BB-Telegram-Bot
-
 ---
 
 ## 🇺🇸 English Version
 
-<img src="./bb%20bot%20source/bb1.gif" width="400" alt="Market Monitoring" />
-
 ### 📖 Introduction
 **Gemini-BB-Telegram-Bot** (formerly `bb-breakout-trading-bot-new`) is a professional-grade Telegram trading bot and the evolution of the original **`bb-breakout-trading-bot-strategy`**. 
 Rebuilt with **TypeScript**, it features a multi-interval engine and deep **Google Gemini AI** integration, transforming traditional monitoring scripts into an intelligent trading assistant with conversational capabilities.
+
+### 🎥 Feature Gallery
+
+#### 1. Multi-Interval Market Monitoring
+<img src="./assets/bb1.gif" width="400" alt="Market Monitoring" />
+
+#### 2. Gemini AI Conversational Assistant
+<img src="./assets/bb2.gif" width="400" alt="AI Assistant Demo" />
+
+#### 3. Telegram Command Interaction
+<img src="./assets/bb3.gif" width="400" alt="Command Operation Demo" />
+
+---
 
 ### 🌟 Key Features
 1.  **Real-time Multi-Interval Monitoring**: Synchronized monitoring of 15m, 1h, 4h, and 1d timeframes with independent BB calculation.
@@ -66,7 +83,6 @@ Rebuilt with **TypeScript**, it features a multi-interval engine and deep **Goog
 ---
 
 ### 🤖 AI Assistant (Powered by Gemini)
-<img src="./bb%20bot%20source/bb2.gif" width="400" alt="AI Assistant Demo" />
 You can call `/ai` followed by any question, such as:
 - "Based on the 15m and 1h indicators, what is the current volatility?"
 - "Analyze the authenticity of the current breakout; is it a good time to enter?"
@@ -74,7 +90,6 @@ You can call `/ai` followed by any question, such as:
 ---
 
 ### 🛠 Command Manual
-<img src="./bb%20bot%20source/bb3.gif" width="400" alt="Command Operation Demo" />
 - `/price` : 💰 Real-time price check
 - `/status` : 📉 Market monitor status (BB Bands)
 - `/signal` : 📍 Check the last triggered signal per interval
