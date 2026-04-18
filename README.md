@@ -15,7 +15,7 @@
 #### 2. Gemini AI 智能對話助手
 <img src="./assets/bb2.gif" width="400" alt="AI 助手對話展示" />
 
-#### 3. Telegram 指令交互操作
+#### 3. 突破訊號偵測與策略警報觸發展示
 <img src="./assets/bb3.gif" width="400" alt="指令操作演示" />
 
 ---
@@ -69,7 +69,7 @@ Rebuilt with **TypeScript**, it features a multi-interval engine and deep **Goog
 #### 2. Gemini AI Conversational Assistant
 <img src="./assets/bb2.gif" width="400" alt="AI Assistant Demo" />
 
-#### 3. Telegram Command Interaction
+#### 3. Breakout signal detection and strategy alert triggering demo
 <img src="./assets/bb3.gif" width="400" alt="Command Operation Demo" />
 
 ---
