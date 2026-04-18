@@ -30,3 +30,7 @@ Thumbs.db
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# 開發暫存與備份 (Development & Backups)
+scratch/
+assets/originals/
